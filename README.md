@@ -100,7 +100,7 @@ Este bloque contiene la configuración de roles y privilegios, la política de r
 
 ### 4. MongoDB
 
-Abrir `03_NoSQL/CRUD_Atenciones_Clinicas.js` en MongoDB Compass o `mongosh` y ejecutar las operaciones CRUD en orden:
+Abrir `03_NoSQL/CRUD_Atenciones_Clinicas` en MongoDB Compass o `mongosh` y ejecutar las operaciones CRUD en orden:
 
 1. Create
 2. Read
