@@ -15,7 +15,7 @@ El proyecto implementa una solución orientada a la gestión y análisis de info
 
 Repositorio GitHub del equipo:
 
-`https://github.com/luismarianoarellanobravo43-hash/Proyecto-Final_Los-Dateros.git`
+`https://github.com/luismarianoarellanobravo43-hash/LosDateros_CIIN1021P_EF_REPO.git`
 
 ## Estructura del repositorio
 
@@ -154,19 +154,6 @@ La matriz que relaciona temas del sílabo, actividades de práctica de campo, se
 El inventario de archivos organizados se encuentra en:
 
 `06_Trazabilidad/Inventario_Archivos.md`
-
-## Verificación antes de la entrega
-
-- [ ] Ejecutar `00_Creacion_Base_y_Tablas.sql` en una instancia de prueba.
-- [ ] Cargar el dataset de Leishmaniosis en la tabla `STG_Leishmaniosis`.
-- [ ] Ejecutar los scripts de automatización en el orden indicado.
-- [ ] Verificar registros en `Log_Auditoria`.
-- [ ] Verificar roles, respaldo/restauración y prueba de rendimiento.
-- [ ] Ejecutar las operaciones CRUD de MongoDB.
-- [ ] Crear y cargar el Data Warehouse mediante el ETL.
-- [ ] Abrir el archivo `.pbix` y verificar la conexión a SQL Server.
-- [ ] Ejecutar el notebook PySpark de principio a fin con su archivo de entrada.
-- [ ] Confirmar que el repositorio GitHub sea accesible al docente.
 
 ## Uso académico
 
