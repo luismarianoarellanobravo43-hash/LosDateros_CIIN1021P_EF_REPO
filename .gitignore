@@ -1,0 +1,10 @@
+# Archivos temporales
+*.tmp
+~$*
+.ipynb_checkpoints/
+
+# Backups de SQL Server (no subir al repositorio)
+*.bak
+
+# Temporales de Power BI
+*.pbit.lock
