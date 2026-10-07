@@ -36,7 +36,7 @@ LosDateros_CIIN1021P_EF_REPO/
 │   ├── 02_Backup_y_Restore.sql
 │   └── 03_Analisis_Rendimiento.sql
 ├── 03_NoSQL/
-│   └── CRUD_Atenciones_Clinicas.js
+│   └── CRUD_Atenciones_Clinicas
 ├── 04_BI_ETL/
 │   ├── 01_Modelo_Estrella_DW.sql
 │   ├── 02_Proceso_ETL.sql
