@@ -63,18 +63,14 @@ LosDateros_CIIN1021P_EF_REPO/
 
 Ejecutar primero:
 
-`00_Automatizacion/00_Creacion_Base_y_Tablas.sql`
+`00_Base_De_Datos/01_DataSalud_Peru_Full.zip`
 
-Este script crea la base de datos `DataSalud_Peru` si no existe y genera las tablas operacionales:
+Mediante este archivo comprimido se crea la base de datos `DataSalud_Peru`:
 
 - `dbo.STG_Leishmaniosis`
 - `dbo.Ubigeo`
 - `dbo.Atencion_Leish`
 - `dbo.Log_Auditoria`
-
-El script contiene **solo el esquema**, no copia los registros del dataset.
-
-Luego se debe cargar el archivo CSV de Leishmaniosis del MINSA en `dbo.STG_Leishmaniosis` mediante el mecanismo de importación usado por el equipo en SQL Server.
 
 ### 2. Automatización
 
