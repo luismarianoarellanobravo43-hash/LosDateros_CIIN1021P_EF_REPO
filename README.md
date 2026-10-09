@@ -23,7 +23,7 @@ Repositorio GitHub del equipo:
 LosDateros_CIIN1021P_EF_REPO/
 ├── README.md
 ├── .gitignore
-├── 00_Base_De_Datos
+├── 00_Base_De_Datos/
 │   ├── 01_DataSalud_Peru_Full.zip
 ├── 01_Automatizacion/
 │   ├── 01_fn_NormalizarTexto.sql
