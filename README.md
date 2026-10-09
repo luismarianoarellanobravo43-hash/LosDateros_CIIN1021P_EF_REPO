@@ -23,8 +23,9 @@ Repositorio GitHub del equipo:
 LosDateros_CIIN1021P_EF_REPO/
 ├── README.md
 ├── .gitignore
+├── 00_Base_De_Datos
+│   ├── 01_DataSalud_Peru_Full
 ├── 01_Automatizacion/
-│   ├── 00_Creacion_Base_y_Tablas.sql
 │   ├── 01_fn_NormalizarTexto.sql
 │   ├── 02_sp_Ingestar_Ubigeo.sql
 │   ├── 03_sp_Ingestar_Atenciones.sql
@@ -62,7 +63,7 @@ LosDateros_CIIN1021P_EF_REPO/
 
 Ejecutar primero:
 
-`01_Automatizacion/00_Creacion_Base_y_Tablas.sql`
+`00_Automatizacion/00_Creacion_Base_y_Tablas.sql`
 
 Este script crea la base de datos `DataSalud_Peru` si no existe y genera las tablas operacionales:
 
